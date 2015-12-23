@@ -1,0 +1,25 @@
+name: CharacterPlugin
+main: io.mooxmirror.character.CharacterPlugin
+version: 0.1
+commands:
+  profession:
+    description: Manages your profession.
+    usage: /<command> <option>
+  guild:
+    description: Manages your guild.
+    usage: /<command> <option>
+  squad:
+    description: Manages your squad.
+    usage: /<command> <option>
+  purse:
+    description: Manages your purse.
+    usage: /<command> <option>
+  channel:
+    description: Manages your chats.
+    usage: /<command> <option>
+  spell:
+    description: Manages your spells.
+    usage: /<command> <spell>
+  stats:
+    description: Shows your stats.
+    usage: /<command>
